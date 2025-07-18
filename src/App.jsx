@@ -23,7 +23,7 @@ import headerImg from "@/assets/images/header-image.png"
 import workimg from "@/assets/images/work1.png"
 import workimg2 from "@/assets/images/work2.png"
 import workimg3 from "@/assets/images/work3.jpg"
-import workimg4 from "@/assets/images/work4.png"
+import workimg4 from "@/assets/images/work4.PNG"
 import workimg5 from "@/assets/images/work5.jpg"
 
 
